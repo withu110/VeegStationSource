@@ -1,0 +1,12 @@
+E:\VeegStationSource\VeegStationSource\VeegAcq\bin\Release\VeegStation.exe.config
+E:\VeegStationSource\VeegStationSource\VeegAcq\bin\Release\VeegStation.exe
+E:\VeegStationSource\VeegStationSource\VeegAcq\bin\Release\VeegStation.pdb
+E:\VeegStationSource\VeegStationSource\VeegAcq\bin\Release\nVLC.dll
+E:\VeegStationSource\VeegStationSource\VeegAcq\obj\Release\VeegStation.csprojResolveAssemblyReference.cache
+E:\VeegStationSource\VeegStationSource\VeegAcq\obj\Release\VeegStation.PlaybackForm.resources
+E:\VeegStationSource\VeegStationSource\VeegAcq\obj\Release\VeegStation.StationForm.resources
+E:\VeegStationSource\VeegStationSource\VeegAcq\obj\Release\VeegStation.Properties.Resources.resources
+E:\VeegStationSource\VeegStationSource\VeegAcq\obj\Release\VeegStation.RecordingForm.resources
+E:\VeegStationSource\VeegStationSource\VeegAcq\obj\Release\VeegStation.csproj.GenerateResource.Cache
+E:\VeegStationSource\VeegStationSource\VeegAcq\obj\Release\VeegStation.exe
+E:\VeegStationSource\VeegStationSource\VeegAcq\obj\Release\VeegStation.pdb
